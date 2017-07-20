@@ -5,7 +5,7 @@ Version: 1.0
 -->
 # AD replication symptom identification
 >LODSProperties
->* IntroductionUri = https://lodmanuals.blob.core.windows.net/manuals/Ignite 2016/Videos/IDL3089/Exercise 1- AD Replication Symptom Identification.mp4
+>* IntroductionUri = https://lodmanuals.blob.core.windows.net/manuals/Ignite 2016/Videos/IDL3089/Exercise 1- AD Replication Symptom Identification.mp4 
 
 ## INTRODUCTION MESSAGE
 In this exercise, you will use repadmin.exe, the AD Replication Status tool \)adreplstatus.exe) and Windows PowerShell to display the Active Directory replication status for the Contoso forest. Each task presents a different method to accomplish the same thing.
